@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(62, 187, 66);
+    background-color: #8fac55;
 }
 
 .container {
@@ -70,6 +70,11 @@ img{
 }
 .task:hover img{ /*quando passa o mouse ta task -- a img vai mudar a configuraçõa*/
     opacity: 1;
+}
+
+.done{
+    background-color: #8fac55;
+    text-decoration: line-through;
 }
 
 
